@@ -1,0 +1,16 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:viewportWidth="135.4667"
+    android:viewportHeight="135.4667"
+    android:width="108dp"
+    android:height="108dp">
+    <!-- imeCep: three phones linked phone-to-phone (mesh). -->
+    <path
+        android:pathData="M67.7,40 L43,83 L92.4,83 Z"
+        android:strokeColor="#000000"
+        android:strokeWidth="5"
+        android:strokeLineJoin="round"
+        android:fillColor="#00000000" />
+    <path
+        android:pathData="M67.7,31 a9,9 0 1,0 0.01,0 Z M43,74 a9,9 0 1,0 0.01,0 Z M92.4,74 a9,9 0 1,0 0.01,0 Z"
+        android:fillColor="#000000" />
+</vector>
